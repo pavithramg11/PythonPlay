@@ -1,0 +1,8 @@
+text = "apple banana apple cherry banana apple"
+words = text.split()
+dict = {}
+for word in words:
+    dict[word] = dict.get(word, 0)+1
+
+for k, v in dict.items():
+    print(f"{k} comes {v} times")

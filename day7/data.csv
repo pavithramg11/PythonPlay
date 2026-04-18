@@ -1,0 +1,6 @@
+Store,Product,Sales,Date
+North,Apple,100,2023-01-01
+South,Orange,150,2023-01-01
+North,Orange,200,2023-01-02
+South,Apple,120,2023-01-02
+North,Apple,50,2023-01-03
